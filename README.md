@@ -13,4 +13,6 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2022 XYZ, Inc._
+# para o lab1 estamos praticando a parte de pull request e analise de software 
+
+_© 2024 XYZ, Inc._
